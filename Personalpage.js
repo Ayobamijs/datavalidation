@@ -1,0 +1,9 @@
+let num = 2
+num *= 1
+document.getElementById('ans').innerHTML = num
+num *= 2
+document.getElementById('ans1').innerHTML = num
+num *= 3
+document.getElementById('ans2').innerHTML = num
+num *= 4
+document.getElementById('ans3').innerHTML = num
